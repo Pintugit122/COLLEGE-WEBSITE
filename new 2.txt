@@ -1,0 +1,32 @@
+<div class="header">
+      <nav>
+        <a href="index.html"><img src="logo.png" alt="image" class="logo"/></a>
+        <div>
+          <button class="lang-btn">
+            <i class="fa-solid fa-language"></i> &nbsp;&nbsp;English&nbsp;&nbsp;<i class="fa-solid fa-caret-down"></i>
+          </button>
+          <button>Sign In</button>
+        </div>
+      </nav>
+      <div class="header-content">
+        <h1>Unlimited movies, TV shows and more</h1>
+        <h3>Watch anywhere. Cancel anytime.</h3>
+        <p>
+          Ready to watch? Enter your email to create or restart your membership.
+        </p>
+        <form class="email-signup">
+          <input type="email" placeholder="Email Address" required />
+          <button type="submit">
+            Get Started <i class="fa-solid fa-chevron-right"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+	
+	
+	
+	
+	
+	
+	
+	
